@@ -130,6 +130,51 @@ Once you have uploaded an image, you can access a variety of editing tools:
 The Image Editor App is your ultimate tool for transforming your images into stunning visuals. With a wide range of features and an intuitive interface, you can easily enhance your photos and express your creativity.
 
 
+* MemeGenerator
+
+
+MemeHouse is a social platform designed for meme lovers to create, share, and enjoy memes.
+
+
+![Screenshot 2025-02-25 131118](https://github.com/user-attachments/assets/12d91eb7-e401-4567-8b41-d227a2a4d117)
+
+
+
+
+* VideosRecording
+
+
+The VideoRecording App is a versatile tool that allows users to record videos in various resolutions, edit them with a range of features, and share them seamlessly on social media platforms. 
+
+
+
+![Screenshot 2025-02-25 132530](https://github.com/user-attachments/assets/77b9f6b5-9916-4d9d-8c41-aa36e069c5af)
+
+
+
+
+* MemesGenerator
+
+The MemesGeneration App is a user-friendly platform that allows you to create and share memes using a variety of templates, images, and text options.
+
+
+![Screenshot 2025-02-25 131118](https://github.com/user-attachments/assets/80e73ab4-4377-4d76-90fd-0c60d10f5395)
+
+
+
+
+Together, these apps provide a comprehensive suite of tools for visual storytelling, allowing users to express themselves creatively across various mediums. Whether you're creating memes, editing images, or recording videos, these applications cater to your needs and enhance your ability to connect with others through humor and creativity. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
